@@ -1,0 +1,7 @@
+{
+  "name": "WhisperText - Flutter Text Messenger",
+  "description": "Production-ready Flutter & Firebase text-only messaging app and architecture with username auth, 12-word recovery phrase, and exact discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
